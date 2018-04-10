@@ -488,18 +488,18 @@ p {
 }
 
 #blog .tabs a {
-  display:block;
-  text-align: left;
-  text-decoration:none;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  color:#121212;
-  font-size: 20px;
-  font-weight: 700;
-  padding: 24px 25px;
-  background-color: #fff;
-  transition: all 0.3s;
-  box-shadow: 0px 0px 10px #cdcdcd;
+	display: block;
+	text-align: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 700;
+	padding: 24px 25px;
+	background-color: #fff;
+	transition: all 0.3s;
+	box-shadow: 0px 0px 10px #cdcdcd;
 }
 
 #blog .tabs .active {
